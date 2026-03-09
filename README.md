@@ -185,7 +185,7 @@ The website provides:
 • Launchpad dashboard\
 • Community discovery
 
-# 🐦 Socials
+#  Socials
 
 Follow Mousebot for updates, launches, and announcements.
 
