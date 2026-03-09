@@ -193,6 +193,8 @@ Follow Mousebot for updates, launches, and announcements.
 
 Farcaster : https://farcaster.xyz/mousebot
 
+X  : https://x.com/MousebotX
+
 
 ------------------------------------------------------------------------
 
