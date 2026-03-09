@@ -1,5 +1,7 @@
 # Mousebot
 
+![image alt](https://github.com/MousebotLaunchpad/Mousebot/blob/main/mousebot%20github.png?raw=true)
+
 Mousebot is a platform dedicated to launching new tokens and supporting emerging projects. It provides a simple and reliable space where creators can introduce their tokens to the community and begin their journey in the ecosystem.
 
 #  Overview
