@@ -2,7 +2,7 @@
 
 Mousebot is a platform dedicated to launching new tokens and supporting emerging projects. It provides a simple and reliable space where creators can introduce their tokens to the community and begin their journey in the ecosystem.
 
-# 🚀 Overview
+#  Overview
 
 Mousebot is a **next-generation Web3 launchpad** designed to make
 memecoin creation and onchain community building simple, fast, and
@@ -22,9 +22,9 @@ launches.**
 
 ------------------------------------------------------------------------
 
-# ✨ Key Features
+#  Key Features
 
-## ⚡ Instant Token Launch
+##  Instant Token Launch
 
 Launch a memecoin in seconds.
 
@@ -57,7 +57,7 @@ This merges the worlds of **AI and Web3.**
 
 ------------------------------------------------------------------------
 
-## 🧠 Community-Driven Launches
+##  Community-Driven Launches
 
 Memecoins thrive on community energy.
 
@@ -86,7 +86,7 @@ No complicated setup required.
 
 ------------------------------------------------------------------------
 
-## 🌍 Fully Onchain Philosophy
+##  Fully Onchain Philosophy
 
 Mousebot is designed around a **fully onchain vision**.
 
@@ -100,17 +100,17 @@ Anyone can launch, participate, and build.
 
 ------------------------------------------------------------------------
 
-# 🧩 The Mousebot Ecosystem
+#  The Mousebot Ecosystem
 
 Mousebot is not just a launchpad --- it is a growing ecosystem.
 
 Future components include:
 
-### 🧠 AI Agent Marketplace
+###  AI Agent Marketplace
 
 Deploy, customize, and monetize AI agents.
 
-### 🚀 Token Launch Infrastructure
+###  Token Launch Infrastructure
 
 Advanced token creation tools and launch mechanics.
 
@@ -122,7 +122,7 @@ Track token growth, community activity, and launch performance.
 
 Enable token holders to shape project direction.
 
-### 🧑‍🚀 Creator Economy
+###  Creator Economy
 
 Empower creators to launch tokens and build sustainable communities.
 
@@ -150,7 +150,7 @@ The platform is designed to be:
 
 ------------------------------------------------------------------------
 
- 📦 Project Structure
+  Project Structure
 
 Typical repository structure:
 
