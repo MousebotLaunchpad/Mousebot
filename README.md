@@ -187,7 +187,7 @@ The website provides:
 
 # 🐦 Socials
 
-Follow ClawdPad for updates, launches, and announcements.
+Follow Mousebot for updates, launches, and announcements.
 
 Farcaster : https://farcaster.xyz/mousebot
 
